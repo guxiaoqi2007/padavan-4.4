@@ -1439,6 +1439,7 @@ jobs:
                 FFMPEG_NEW \
                 XRAY V2RAY TROJAN SSOBFS SINGBOX NAIVEPROXY SHADOWSOCKS REDSOCKS \
                 MINIDLNA \
+                MSD_LITE \
                 SMBD WINS SMBD_SYSLOG \
                 OPENVPN \
                 SCUTCLIENT GDUT_DRCOM DOGCOM MINIEAP NJIT_CLIENT MENTOHUST \
