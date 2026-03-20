@@ -1441,12 +1441,10 @@ jobs:
                 MINIDLNA \
                 SMBD WINS SMBD_SYSLOG \
                 OPENVPN \
-                ZEROTIER \
                 SCUTCLIENT GDUT_DRCOM DOGCOM MINIEAP NJIT_CLIENT MENTOHUST \
                 UVC HID SERIAL AUDIO \
                 LPRD U2EC HDPARM PARTED \
                 RPL2TP EAP_PEAP SSWAN FIREFLY \
-                VLMCSD MSD_LITE \
                 DUMP1090 RTL_SDR SRELAY \
                 ALIDDNS DDNSTO ALDRIVER SQM \
                 NFSD NFSC TRANSMISSION TRANSMISSION_WEB_CONTROL
