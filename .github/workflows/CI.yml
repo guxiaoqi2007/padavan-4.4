@@ -1442,7 +1442,6 @@ jobs:
                 SMBD WINS SMBD_SYSLOG \
                 OPENVPN \
                 ZEROTIER \
-                FRPS \
                 SCUTCLIENT GDUT_DRCOM DOGCOM MINIEAP NJIT_CLIENT MENTOHUST \
                 UVC HID SERIAL AUDIO \
                 LPRD U2EC HDPARM PARTED \
